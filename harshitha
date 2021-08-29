@@ -1,0 +1,6 @@
+
+    git init to initialize the directory as a Git repository.
+    git remote add origin https://github.com/harshithasnayaka/github-upload.git
+    git add .
+    git commit -m "initializing repository"
+    git push -u origin main to push the files you have locally to the remote on GitHub. (You may be asked to log in.)
